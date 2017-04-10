@@ -1,0 +1,19 @@
+start_test_server_in_background
+query("*")
+query("button")
+query("* id:'signIn_button')"
+query("* id:'signIn_button')"
+query("android.widget.Button""
+query("android.widget.Button")
+exit
+query("android.widget.Button")
+exit
+exit
+query("android.widget.Button")
+touch("* id:'signIn_buton')"
+exit
+exit
+exit
+reinstall_apps
+exit
+exit
